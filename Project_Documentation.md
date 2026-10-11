@@ -61,15 +61,23 @@ The data is loaded and organized using a Pandas DataFrame.
 - Top three student ranking
 - CSV report generation
 - Student performance visualization
-
 ## 7. Output / Screenshots
 
-Add screenshots of:
-- The student records displayed in the terminal
-- The class performance summary
-- The subject-wise averages and top three students
-- The student performance bar chart
-- The generated CSV report, if required
+### 7.1 Student Analysis Output
+
+The terminal output displays the student records, total and average marks, grades, pass/fail results, class performance summary, subject-wise averages, and top three students.
+
+![Student Analysis Output](student-performance-analysis.png)
+
+### 7.2 Student Performance Bar Chart
+
+The bar chart visualizes the average marks of the students and helps compare their academic performance.
+
+![Student Performance Chart](student-performance-bar-chart.png)
+
+### 7.3 Generated CSV Report
+
+The program generates `student_performance_report.csv`, which contains the student data and calculated performance results.
 
 ## 8. Final Outcome
 
@@ -83,6 +91,9 @@ Learning outcomes include working with CSV files, Pandas DataFrames, numerical c
 
 ## 10. GitHub Repository
 
-Add your final GitHub repository URL here after uploading the project.
+## 10. GitHub Repository
 
-[Paste GitHub repository URL here]
+The complete source code, dataset, and project files are available in the following GitHub repository:
+
+https://github.com/srushtitemgire2016/student-performance-analytics
+
