@@ -21,11 +21,32 @@ This project analyzes student marks using Python, Pandas, and NumPy. It calculat
 - Matplotlib
 
 ## How to Run
-Run the following command in the terminal:
 
-`python main.py`
+### Prerequisites
+- Python 3.11
+- Pandas
+- NumPy
+- Matplotlib
 
-If your system uses a different Python command, use the Python 3.11 executable configured for this project.
+### Steps
+
+1. Download or clone this repository.
+2. Open the project folder in VS Code.
+3. Install the required libraries if they are not already installed:
+
+   ```powershell
+   python -m pip install pandas numpy matplotlib
+   ```
+
+4. Run the project from the folder containing `main.py` and `student.csv`:
+
+   ```powershell
+   python main.py
+   ```
+
+5. View the student performance analysis in the terminal and the bar chart in the chart window.
+
+The program generates `student_performance_report.csv` containing the analyzed student data.
 
 ## Output Files
 - `student_performance_report.csv` — student analysis report
