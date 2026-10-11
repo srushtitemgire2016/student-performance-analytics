@@ -1,0 +1,21 @@
+StudentID,Name,Department,Maths,Science,English,Attendance
+S101,Aarav,Computer Science,85,90,78,92
+S102,Diya,Information Technology,92,88,95,96
+S103,Rohan,Computer Science,67,72,80,78
+S104,Ananya,Electronics,78,81,85,88
+S105,Kabir,Mechanical,56,60,65,70
+S106,Meera,Information Technology,89,94,91,95
+S107,Arjun,Computer Science,74,79,82,84
+S108,Isha,Electronics,95,91,89,98
+S109,Vivaan,Mechanical,62,68,71,76
+S110,Saanvi,Information Technology,83,86,90,91
+S111,Aditya,Computer Science,48,55,59,65
+S112,Kiara,Electronics,88,84,92,93
+S113,Reyansh,Mechanical,71,75,69,80
+S114,Anika,Information Technology,96,93,97,99
+S115,Dev,Computer Science,59,63,66,72
+S116,Priya,Electronics,81,87,84,89
+S117,Ishaan,Mechanical,77,70,73,82
+S118,Myra,Information Technology,68,74,79,85
+S119,Karan,Computer Science,91,89,86,94
+S120,Avni,Electronics,64,69,72,77
